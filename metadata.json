@@ -1,0 +1,7 @@
+{
+  "name": "FLASH REACTION",
+  "description": "An anime-styled reflex challenge testing your reaction time with millisecond precision, futuristic visuals, and dynamic game modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
